@@ -144,7 +144,7 @@
 
 ## 📊 Estatísticas
 
-- **18+ Repositórios Públicos** ativos
+- **16 Repositórios Públicos** ativos
 - **4+ Anos** de experiência em desenvolvimento
 - **Especialização**: Legal Tech, AI/ML, Data Engineering
 - **Contribuições**: Open Source e projetos inovadores
