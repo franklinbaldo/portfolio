@@ -20,23 +20,17 @@ intuit/
 leizilla/
 letra_bonita/
 life-of-menard/
-manifold_football/
 mind-fragments/
-mniChecker/
-mni_gscript/
-my_daily_bet/
-opencnpj/
-paf/
 perquire/
-pje_identificador/
-pje-downloader/
 pontifex/
-rag-kanoe/
 sites_prefeituras/
-strategy_refiner/
 tambaqui/
 tembiu/
 textura/
+
+# === MONOREPOS PRIVADOS ===
+pge-ro/
+sandbox/
 
 # === UNIQUE LOCAL REPOSITORIES ===
 feelingit/
@@ -66,4 +60,4 @@ build/
 !package-lock.json
 !.gitignore
 !LICENSE
-!scripts/
+!.scripts/
