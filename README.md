@@ -125,7 +125,7 @@
 ### **🔧 Tools & Utilities**
 | Projeto | Descrição | Tecnologias | Status |
 |---------|-----------|-------------|--------|
-| [portfolio](https://github.com/franklinbaldo/portfolio) | Sistema gestão portfólio | Node.js, Scripts | ✅ Ativo |
+| ~~portfolio~~ | ~~Sistema gestão portfólio~~ | ~~Node.js, Scripts~~ | ~~Migrado para workspace privado~~ |
 | [pontifex](https://github.com/franklinbaldo/pontifex) | Ferramenta utilitária | Python | 🧪 Experimental |
 | [intuit](https://github.com/franklinbaldo/intuit) | Prototipagem rápida | HTML | 🧪 Experimental |
 
