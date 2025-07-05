@@ -4,7 +4,8 @@
 
 💼 Desenvolvendo soluções inovadoras que combinam tecnologia e direito  
 🤖 Especialista em automação inteligente e análise de dados jurídicos  
-🌐 4+ anos criando aplicações web modernas e sistemas distribuídos
+🌐 5+ anos criando aplicações web modernas e sistemas distribuídos  
+⚡ Foco em sistemas distribuídos, IA aplicada e transformação digital no setor público
 
 ---
 
@@ -58,6 +59,14 @@
 **Status**: ✅ Funcional  
 **Link**: [GitHub](https://github.com/franklinbaldo/tambaqui)
 
+### 🏛️ **PGE-RO** - Legal Automation Monorepo
+
+> Ferramentas e automações para Procuradoria Geral do Estado de Rondônia (Privado)
+
+**Tech Stack**: Python, Google Apps Script, Oracle, Data Processing  
+**Status**: ✅ Ativo (Produção)  
+**Funcionalidades**: Gabinete Automático, RAG-SEI, Análise de Sentenças, PJE Downloader
+
 ---
 
 ## 🛠 Stack Tecnológico
@@ -103,11 +112,13 @@
 
 ### **⚖️ Legal Tech & Data Analysis**
 
-| Projeto                                                   | Descrição                             | Tecnologias            | Status                |
-| --------------------------------------------------------- | ------------------------------------- | ---------------------- | --------------------- |
-| [causaganha](https://github.com/franklinbaldo/causaganha) | Plataforma de análise judicial com IA | Python, Gemini, DuckDB | 🅰️ Alpha              |
-| [leizilla](https://github.com/franklinbaldo/leizilla)     | Crawler de legislação brasileira      | Python, Web Scraping   | 🚧 Em desenvolvimento |
-| [tambaqui](https://github.com/franklinbaldo/tambaqui)     | Tabelas de atualização monetária      | Python, HTML           | ✅ Funcional          |
+| Projeto                                                   | Descrição                              | Tecnologias                 | Status                |
+| --------------------------------------------------------- | -------------------------------------- | --------------------------- | --------------------- |
+| [causaganha](https://github.com/franklinbaldo/causaganha) | Plataforma de análise judicial com IA  | Python, Gemini, DuckDB      | 🅰️ Alpha              |
+| [pge-ro](https://github.com/franklinbaldo/pge-ro)         | Automações jurídicas PGE-RO (Privado)  | Python, GAS, Oracle, AI     | ✅ Ativo (Produção)    |
+| [leizilla](https://github.com/franklinbaldo/leizilla)     | Crawler de legislação brasileira       | Python, Web Scraping       | 🚧 Em desenvolvimento |
+| [tambaqui](https://github.com/franklinbaldo/tambaqui)     | Tabelas de atualização monetária       | Python, HTML               | ✅ Funcional          |
+| [cotel_scrap](https://github.com/franklinbaldo/cotel_scrap) | Processador de legislação de Rondônia | Python, Astro, Markdown    | 🚧 Em desenvolvimento |
 
 ### **🤖 AI & Machine Learning**
 
@@ -126,11 +137,12 @@
 
 ### **🌐 Web Development**
 
-| Projeto                                                         | Descrição                    | Tecnologias           | Status       |
-| --------------------------------------------------------------- | ---------------------------- | --------------------- | ------------ |
-| [franklinbaldo](https://github.com/franklinbaldo/franklinbaldo) | Site pessoal                 | Astro, TypeScript     | ✅ Ativo     |
-| [tembiu](https://github.com/franklinbaldo/tembiu)               | PWA para cardápio            | HTML, JavaScript, PWA | ✅ Funcional |
-| [letra_bonita](https://github.com/franklinbaldo/letra_bonita)   | Projeto de tipografia/design | HTML, CSS             | ✅ Funcional |
+| Projeto                                                         | Descrição                               | Tecnologias           | Status       |
+| --------------------------------------------------------------- | --------------------------------------- | --------------------- | ------------ |
+| [tembiu](https://github.com/franklinbaldo/tembiu)               | PWA para cardápio                       | HTML, JavaScript, PWA | ✅ Funcional |
+| [letra_bonita](https://github.com/franklinbaldo/letra_bonita)   | Gerador de folhas de caligrafia com IA  | HTML, CSS, JavaScript | ✅ Funcional |
+| [mind-fragments](https://github.com/franklinbaldo/mind-fragments) | Blog pessoal com fragmentos de ideias | Astro, Markdown       | 📝 Ativo     |
+| [mind-fragments2](https://github.com/franklinbaldo/mind-fragments2) | Versão 2 do blog pessoal            | Astro, TypeScript     | 📝 Ativo     |
 
 ### **🔗 Blockchain & Web3**
 
@@ -140,34 +152,31 @@
 
 ### **🔧 Tools & Utilities**
 
-| Projeto                                               | Descrição                    | Tecnologias          | Status                             |
-| ----------------------------------------------------- | ---------------------------- | -------------------- | ---------------------------------- |
-| ~~portfolio~~                                         | ~~Sistema gestão portfólio~~ | ~~Node.js, Scripts~~ | ~~Migrado para workspace privado~~ |
-| [pontifex](https://github.com/franklinbaldo/pontifex) | Ferramenta utilitária        | Python               | 🧪 Experimental                    |
-| [intuit](https://github.com/franklinbaldo/intuit)     | Prototipagem rápida          | HTML                 | 🧪 Experimental                    |
-
-### **🌱 Social Impact**
-
-| Projeto                                       | Descrição                      | Tecnologias                 | Status          |
-| --------------------------------------------- | ------------------------------ | --------------------------- | --------------- |
-| [heta](https://github.com/franklinbaldo/heta) | Gestão de doações de alimentos | Python, PWA, GitHub Actions | 📋 Planejamento |
+| Projeto                                                 | Descrição                          | Tecnologias              | Status                |
+| ------------------------------------------------------- | ---------------------------------- | ------------------------ | --------------------- |
+| [workspace](https://github.com/franklinbaldo/workspace) | Ambiente de desenvolvimento unificado | Scripts, Config, Automation | ✅ Ativo              |
+| [portfolio](https://github.com/franklinbaldo/portfolio) | Sistema de gestão de portfólio     | Scripts, Management      | ✅ Ativo              |
+| [sandbox](https://github.com/franklinbaldo/sandbox)     | Projetos experimentais e protótipos | Multi-language          | 🧪 Experimental       |
+| [pontifex](https://github.com/franklinbaldo/pontifex)   | Ferramenta utilitária              | Python                  | 🧪 Experimental       |
+| [intuit](https://github.com/franklinbaldo/intuit)       | Prototipagem rápida                | HTML                    | 🧪 Experimental       |
+| [manifold_football](https://github.com/franklinbaldo/manifold_football) | Automação mercados de apostas | Google Apps Script     | 🧪 Experimental       |
 
 ### **📝 Personal & Creative**
 
 | Projeto                                                           | Descrição                    | Tecnologias     | Status          |
 | ----------------------------------------------------------------- | ---------------------------- | --------------- | --------------- |
-| [mind-fragments](https://github.com/franklinbaldo/mind-fragments) | Fragmentos de ideias         | Markdown, Notes | 📝 Ativo        |
 | [life-of-menard](https://github.com/franklinbaldo/life-of-menard) | Projeto pessoal experimental | Various         | 🧪 Experimental |
 
 ---
 
 ## 📊 Estatísticas
 
-- **16 Repositórios Públicos** ativos
-- **4+ Anos** de experiência em desenvolvimento
-- **Especialização**: Legal Tech, AI/ML, Data Engineering
-- **Contribuições**: Open Source e projetos inovadores
-- **Foco**: Automação inteligente e impacto social
+- **22 Repositórios Públicos** ativos
+- **5+ Anos** de experiência em desenvolvimento
+- **Especialização**: Legal Tech, AI/ML, Data Engineering, Sistemas Distribuídos
+- **Contribuições**: Open Source, projetos inovadores e soluções em produção
+- **Foco**: Automação inteligente, impacto social e transformação digital no setor público
+- **Destaques**: Sistemas em produção no governo, IA aplicada ao direito, arquiteturas distribuídas
 
 ---
 
@@ -183,4 +192,4 @@ Interessado em colaborar ou discutir projetos? Entre em contato:
 
 _"Transformando complexidade jurídica em soluções tecnológicas elegantes"_
 
-**Última atualização**: Julho 2025
+**Última atualização**: Janeiro 2025
